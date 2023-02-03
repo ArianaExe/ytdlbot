@@ -12,6 +12,8 @@ Download videos from YouTube and other platforms through a Telegram Bot
 -----
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/itzrexmodz/ytdlbot&branch=master&name=RevyURL)
+
 Can't deploy? Fork to your personal account and deploy it there!
 
 **Starting November 28, 2022, free Heroku Dynos, free Heroku Postgres, and free Heroku Data for Redis® plans will no
